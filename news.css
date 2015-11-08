@@ -1,0 +1,23 @@
+.nav li{
+	display: inline;
+	font-family: 'Shadows Into Light', cursive;
+	background-color: black;
+	color: white;
+}
+.nav ul{
+	margin: 10px;
+}
+.about {
+	padding: 10px;
+}
+.news {
+	padding: 10px;
+}
+#feedControl {
+margin-top : 10px;
+height: 1000px
+width: auto;
+}
+
+@import url("http://www.google.com/uds/solutions/dynamicfeed/gfdynamicfeedcontrol.css");
+}

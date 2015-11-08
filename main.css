@@ -1,0 +1,35 @@
+.jumbotron {
+	background-image: url(images/wnba.png);
+	background-position: center;
+	background-size: cover;
+	/*height: 500px;*/
+	/*<!--border: 3px solid #00FF00;*/	
+	font-family: 'Shadows Into Light', cursive;
+
+}
+.jumbotron h2 {
+	font-family: 'Shadows Into Light', cursive;
+}
+.nav li{
+	display: inline;
+	font-family: 'Shadows Into Light', cursive;
+	background-color: black;
+	color: white;
+}
+.nav ul{
+	margin: 10px;
+}
+.about {
+	padding: 10px;
+}
+.news {
+	padding: 10px;
+}
+.words {
+	position: relative;
+	margin: 0px;
+}
+.image-size {
+	height: 487px;
+	width: 865px;
+}
