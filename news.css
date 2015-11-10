@@ -117,11 +117,18 @@
     display: none;
   }
 }
+.jumbotron {
+  background-image: url(images/WNBA_PhotoBall.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.jumbotron h1{
+  font-family: 'Shadows Into Light', cursive;
+}
 
 #feedControl {
 margin-top : 10px;
-height: 1000px
-width: auto;
 }
 
 @import url("http://www.google.com/uds/solutions/dynamicfeed/gfdynamicfeedcontrol.css");
