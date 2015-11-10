@@ -132,6 +132,11 @@
 .words {
 	position: relative;
 	margin: 0px;
+  text-align: center;
+}
+.words h1{
+  font-family: 'Shadows Into Light', cursive;
+  text-align: center;
 }
 .image-size {
 	height: 487px;
