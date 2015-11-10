@@ -126,7 +126,15 @@
 .jumbotron h1{
   font-family: 'Shadows Into Light', cursive;
 }
-
+.content {
+  font-family: 'Shadows Into Light', cursive;
+}
+.content h4{
+  font-family: 'Shadows Into Light', cursive;
+}
+.content h3{
+  font-family: 'Shadows Into Light', cursive;
+}
 #feedControl {
 margin-top : 10px;
 }
