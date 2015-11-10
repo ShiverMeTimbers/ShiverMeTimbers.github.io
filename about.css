@@ -94,6 +94,12 @@
 #cssmenu.align-right li:first-child a:after {
   display: none;
 }
+.about {
+  font-family: 'Shadows Into Light', cursive;
+}
+.about h5{
+  font-family: 'Shadows Into Light', cursive;
+}
 @media screen and (max-width: 768px) {
   #cssmenu ul li {
     float: none;
@@ -116,7 +122,4 @@
   #cssmenu ul li a:before {
     display: none;
   }
-}
-div .inline {
-  float: left;
 }
